@@ -1,0 +1,53 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 10,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You should not change or delete the existing elements in the head tag",
+      "status": "passed"
+    },
+    {
+      "title": "The styles.css file should be empty",
+      "status": "passed"
+    },
+    {
+      "title": "Do not use any inline styles, just use the bootstrap classes for styling",
+      "status": "passed"
+    },
+    {
+      "title": "The body should contain a div tag",
+      "status": "passed"
+    },
+    {
+      "title": "The div tag should contain the class container-fluid",
+      "status": "passed"
+    },
+    {
+      "title": "The div tag should contain a <div> with class row",
+      "status": "passed"
+    },
+    {
+      "title": "The row should contain 2 columns with 2 and 10 slots",
+      "status": "passed"
+    },
+    {
+      "title": "The left column should contain a <ul> tag with the classes nav and flex-column",
+      "status": "passed"
+    },
+    {
+      "title": "The second column should contain an H4, a p and a button",
+      "status": "passed"
+    },
+    {
+      "title": "The button in the second column should be blue",
+      "status": "passed"
+    }
+  ]
+}
